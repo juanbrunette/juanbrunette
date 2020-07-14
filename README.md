@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**juanbrunette/juanbrunette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there. This is my Home Assistant 
 
 Add the following repositories to Home Assistant Supervisor Add-On repositories:
  - https://github.com/ParadoxAlarmInterface/hassio-repository
