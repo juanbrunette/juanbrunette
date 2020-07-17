@@ -9,3 +9,5 @@ SAMBA:
 Add a password under the Configuration Tab. 
 
 
+Disable local DNS Server on Ubuntu:
+https://askubuntu.com/questions/1081832/how-do-i-disable-systemd-resolved-and-replace-with-something-sane-on-ubuntu-18
